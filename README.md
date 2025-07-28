@@ -6,6 +6,12 @@ It's very simple. First the neural network takes your input and does calculation
 
 This project really shed light on the black box of neural networks. I learnt about how gradients flow back in a network and how backpropagation can be applied to any function.
 
+
+
+<img width="715" height="503" alt="image" src="https://github.com/user-attachments/assets/872df290-6d34-46cd-9046-0ee6d27cad5e" />
+
+
+
 Further to this, I also did backpropagation calculations by hand! I got to feel what it was like being an AI researcher in the 1970s. This really
 helped me build intuition for how the gradients flow and how the network updates itself.
 
